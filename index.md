@@ -6,6 +6,9 @@ title: Perfil de Helder Octavio Fernández Guzmán
 # Helder Octavio Fernández Guzmán
 ## Docente Universitario | Especialista en Desarrollo de Software
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="helderfernandez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bo.linkedin.com/in/helderfernandez?trk=profile-badge">Helder F.</a></div>
+             
+
 [LinkedIn](https://www.linkedin.com/in/helderfernandez/) | [GitHub](https://github.com/TU_GITHUB)
 
 ---
@@ -37,7 +40,3 @@ Como docente en la Universidad Mayor de San Simón, imparto cursos sobre program
 - [Descargar el Texto Guía de Elementos y Estructuras de Datos](./mnt/data/Texto_Guia___Elementos_y_Estructuras_de_Datos.pdf)
 
 ---
-
-## Contacto
-
-Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/helderfernandez/) o visitar mi perfil en [GitHub](https://github.com/helderfernandez).
