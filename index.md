@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Perfil de Helder Octavio Fernández Guzmán
+layout: home
+title: Pagina de Helder Octavio Fernández Guzmán
 ---
 
 # Helder Octavio Fernández Guzmán
