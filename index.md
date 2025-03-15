@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Pagina de Helder Octavio Fernández Guzmán
 ---
 
